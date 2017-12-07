@@ -1,2 +1,2 @@
 # PyAnts
-A ants colony simulator in Python
+A ants colony simulator in Python (PyQt)
